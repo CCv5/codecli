@@ -45,7 +45,6 @@ setup(
     name=NAME,
     version=VERSION,
     description=DESCRIPTION,
-    long_description=read_long_description('README.rst'),
     author=AUTHOR,
     author_email=AUTHOR_EMAIL,
     license=LICENSE,
